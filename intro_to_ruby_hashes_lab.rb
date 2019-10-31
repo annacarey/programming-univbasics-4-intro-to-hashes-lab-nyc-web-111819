@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  new_hash = {
+    :name = Anna, Ethan, Hayden, Julia
+    :age = 26, 26, 22, 22
+  }
 end
 
 def pioneer
