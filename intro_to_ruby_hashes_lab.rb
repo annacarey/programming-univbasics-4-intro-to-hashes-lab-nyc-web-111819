@@ -4,16 +4,16 @@ end
 
 def my_hash
   new_hash = {
-    :name = "Anna"
-    :age = 26
-    :location = "New York"
+    :name => "Anna"
+    :age => 26
+    :location => "New York"
   }
 end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
   new_hash = {
-    :name = "Grace Hopper"
+    :name => "Grace Hopper"
   }
 end
 
