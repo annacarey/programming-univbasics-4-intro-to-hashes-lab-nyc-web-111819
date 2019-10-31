@@ -4,8 +4,9 @@ end
 
 def my_hash
   new_hash = {
-    :name = Anna, Ethan, Hayden, Julia
-    :age = 26, 26, 22, 22
+    :name = "Anna"
+    :age = 26
+    :location = "New York"
   }
 end
 
